@@ -1,2 +1,2 @@
-#Hybrid Recommender
+#hybrid_recommender
 Built and implemented a Hybrid recommender system based on sequential design which involves content based and collaborative based recommender to recommend new movies. At first, based on the viewed movie, content based recommender detect the similar movies to the viewed movie using cosine similarity. And then, highly rated similar movies (ratings predicted by collaborative based recommender using SVD) are suggested to the given user.
